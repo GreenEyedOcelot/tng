@@ -1,0 +1,21 @@
+.scorestyles {
+   margin-left: 5px;
+   margin-right: 5px;
+
+      border-radius: 6px;
+      border: 2px solid #aaa;
+      border-radius: 4px;
+      padding: 10px;
+      margin: 5px;
+      background-color: #ddd;
+     
+   
+   }
+   
+
+
+
+.scorebarstyles {
+   margin-bottom: 20px;
+   align-content: center;
+}
